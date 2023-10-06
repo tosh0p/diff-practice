@@ -1,2 +1,2 @@
 # diff-practice
-repository for diff practice
+for rebase pull
